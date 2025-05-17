@@ -11,7 +11,7 @@ No installation needed
 - 
 
 ## Data sources
--  - [link](https://www.omdbapi.com/)
+-  Mushroom data set [link]([https://archive.ics.uci.edu/dataset/73/mushroom])
 
 ## Presentation
 Presentation slides can be found [here](https://docs.google.com/presentation/d/1QYp8tfDNgI_CxuNQz8iTK_Wy1vbslPcnmaUQYWvT4x4/edit?usp=sharing)
