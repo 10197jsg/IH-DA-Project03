@@ -20,7 +20,7 @@ Machine Learning tuned to classify if Mushrooms are edible or not. Dataset from 
 -  Mushroom Classification [link](https://www.kaggle.com/datasets/uciml/mushroom-classification)
 
 ## Presentation
-Presentation slides can be found [here](https://docs.google.com/presentation/d/1QYp8tfDNgI_CxuNQz8iTK_Wy1vbslPcnmaUQYWvT4x4/edit?usp=sharing)
+- Presentation slides can be found [here](https://docs.google.com/presentation/d/1QYp8tfDNgI_CxuNQz8iTK_Wy1vbslPcnmaUQYWvT4x4/edit?usp=sharing)
 
 
 ## Author
