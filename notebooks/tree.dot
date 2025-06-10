@@ -1,17 +1,17 @@
 digraph Tree {
 node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
 edge [fontname="helvetica"] ;
-0 [label="gill-color <= 0.318\nsquared_error = 0.25\nsamples = 6499\nvalue = 0.484", fillcolor="#f4cbad"] ;
-1 [label="population <= 0.7\nsquared_error = 0.136\nsamples = 2644\nvalue = 0.837", fillcolor="#ea975b"] ;
+0 [label="stalk-color-below-ring <= 0.312\nsquared_error = 0.25\nsamples = 6499\nvalue = 0.482", fillcolor="#eb9e66"] ;
+1 [label="gill-attachment <= 0.5\nsquared_error = 0.248\nsamples = 448\nvalue = 0.54", fillcolor="#e68640"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="squared_error = 0.11\nsamples = 460\nvalue = 0.126", fillcolor="#ffffff"] ;
+2 [label="squared_error = 0.188\nsamples = 16\nvalue = 0.25", fillcolor="#ffffff"] ;
 1 -> 2 ;
-3 [label="squared_error = 0.013\nsamples = 2184\nvalue = 0.987", fillcolor="#e58139"] ;
+3 [label="squared_error = 0.247\nsamples = 432\nvalue = 0.551", fillcolor="#e58139"] ;
 1 -> 3 ;
-4 [label="spore-print-color <= 0.188\nsquared_error = 0.183\nsamples = 3855\nvalue = 0.241", fillcolor="#fceee5"] ;
+4 [label="cap-shape <= 0.1\nsquared_error = 0.25\nsamples = 6051\nvalue = 0.478", fillcolor="#eba069"] ;
 0 -> 4 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
-5 [label="squared_error = 0.108\nsamples = 552\nvalue = 0.877", fillcolor="#e89152"] ;
+5 [label="squared_error = 0.244\nsamples = 358\nvalue = 0.425", fillcolor="#f0b68c"] ;
 4 -> 5 ;
-6 [label="squared_error = 0.117\nsamples = 3303\nvalue = 0.135", fillcolor="#fffefd"] ;
+6 [label="squared_error = 0.25\nsamples = 5693\nvalue = 0.481", fillcolor="#eb9e67"] ;
 4 -> 6 ;
 }
