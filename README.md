@@ -1,5 +1,5 @@
-# Third project of DA bootcamp: ML for Mushroom Classification
-Machine Learning tuned to classify if Mushrooms are edible or not. Dataset from the UCI Machine Learning repository, accessed through Kaggle.
+# Third project of DA bootcamp: Mushroom Classification
+Mushroom Classification is a machine learning project focused on classifying whether mushrooms are poisonous or not.
 
 ## Installation
 - pip install graphviz
