@@ -1,5 +1,6 @@
-# Third project of DA bootcamp: Mushroom Classification
-Mushroom Classification is a machine learning project focused on classifying whether mushrooms are poisonous or not.
+# Mushroom Classification (IH-DA-Project03)
+
+Machine learning project focused on classifying whether mushrooms are poisonous or not. Cleaned and analysed the Kaggle dataset to build and trained predictive model using classification techniques. The results provided a very accurate classification tool utilising only text characteristics.  
 
 ## Installation
 - pip install graphviz
